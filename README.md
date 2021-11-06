@@ -1,6 +1,3 @@
-# hello-world
-## A Wonderful Repository
-
 // this is a test
 
 let firstBatch = 5
