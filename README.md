@@ -2,5 +2,5 @@
 ## A Wonderful Repository
 
 <body>
-  <script src = "index.jsfile"></script>
+  <script src = "index.js"></script>
 </body>
